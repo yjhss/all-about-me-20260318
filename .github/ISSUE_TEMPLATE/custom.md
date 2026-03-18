@@ -1,13 +1,4 @@
 ---
-name: Custom issue template
-about: 기본 이슈 템플릿
-title: "[FEAT]"
-labels: ''
-assignees: ''
-
----
-
----
 name: 이슈 작성
 about: 이슈를 작성해주세요
 title: ''
